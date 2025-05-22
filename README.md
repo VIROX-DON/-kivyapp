@@ -1,2 +1,2 @@
-# -kivyapp
+# kivyapp
 buld
